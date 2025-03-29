@@ -1,4 +1,4 @@
-# Technonomicon: Summon the book.
+# NotToday
 
 ```sh
   npm create astro@latest -- --template technomancy-dev/technonomicon
@@ -6,7 +6,7 @@
   npm run dev
 ```
 
-> 🧙‍♂️ **Seasoned technomancer?** Delete this file. Have fun!
+> 🧙‍♂️ NotToday es un tributo a "Los hombres Libres de Braavoos", personajes ficticios de la serie GOT (ÇJuego de tronos)
 
 ![just-the-basics](./readme-image.png)
 
