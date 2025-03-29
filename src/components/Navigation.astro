@@ -20,14 +20,14 @@ const day = new Intl.DateTimeFormat("en-US", options).format(today);
 const month = new Intl.DateTimeFormat("en-US", optionsMonth).format(today);
 ---
 
-<nav class="p-2 md:px-10 w-full">
+<nav class="p-2 md:px-10 w-full bg-black">
   <div class="flex justify-between ">
     <a class="max-w-[50%]" href="/">
-      <h1 class="text-xl md:text-2xl font-display">
+      <h1 class="text-xl text-white md:text-2xl font-display">
         <span>Not Today</span>
       </h1>
       <p
-        class="text-xs font-extrabold text-transparent bg-clip-text bg-gradient-to-t from-primary via-base-content to-base-content"
+        class="text-xs font-extrabold text-transparent bg-clip-text bg-gradient-to-t from-primary via-base-content to-base-content text-white"
       >
         La compañía Libre de Braavos<span
           class="inline-flex items-center"></span
@@ -44,7 +44,7 @@ const month = new Intl.DateTimeFormat("en-US", optionsMonth).format(today);
               issue_slug ? "from-primary" : "from-accent",
             ]}
           >
-            <span class="mb-1">issue no.</span>
+            <span class="mb-1">Valar Morghulis</span>
             <span
               transition:name={`issue_number_${issue}`}
               transition:animate="fade"
@@ -74,7 +74,7 @@ const month = new Intl.DateTimeFormat("en-US", optionsMonth).format(today);
         href="/issues/page/1"
         class="bg-base-100 text-primary pl-3 text-base font-semibold leading-6"
       >
-        All Issues
+        GAME OF THRONES NEWS
       </a>
     </div>
   </div>
