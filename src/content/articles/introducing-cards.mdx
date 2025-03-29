@@ -10,8 +10,8 @@ import CardHolo from "../../components/Cards/HoloFullArtCard/Card.astro"
 import TipCard from "../../components/Cards/TipCard/Card.astro"
 
 export const components = {
-  Container: props => <div class="flex flex-row-reverse justify-center w-full my-12 flex-wrap lg:flex-nowrap gap-2" {...props} />,
-  HoloText: props => <p class="text-center holographic-text font-display mt-4 text-xl lg:text-4xl" {...props} />
+  Container: props => <div class="flex flex-row-reverse justify-center w-full my-12 flex-wrap lg:flex-nowrap gap-2 mt-5" {...props} />,
+  HoloText: props => <p class="text-center holographic-text font-display mt-2 text-xl lg:text-4xl" {...props} />
 }
 
 export const technonomiconCard = await getEntry(
@@ -26,7 +26,7 @@ export const why_mdx_cards = await getEntry(
 
 # {frontmatter.title}
 
-<HoloText>Now with all new cards!</HoloText>
+<HoloText>Quién Jaqen H'ghar?</HoloText>
 
 <Container>
   <CardHolo markdown={technonomiconCard} />
