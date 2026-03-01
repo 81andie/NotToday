@@ -65,3 +65,5 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://theme.technomancy.dev) 
 <!-- or jump into our [Discord server](https://astro.build/chat). -->
+
+#Cambios en el readme
