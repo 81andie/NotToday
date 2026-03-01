@@ -6,7 +6,7 @@
   npm run dev
 ```
 
-> 🧙‍♂️ NotToday es un tributo a "Los hombres Libres de Braavoos", personajes ficticios de la serie GOT (Juego de tronos)
+> 🧙‍♂️ NotToday es un tributo a "Los hombres Libres de Braavoos", personajes ficticios de la serie GOT (Juego de tronos)!
 
 ![just-the-basics](./readme-image.png)
 
