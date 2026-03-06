@@ -67,3 +67,4 @@ Feel free to check [our documentation](https://theme.technomancy.dev)
 <!-- or jump into our [Discord server](https://astro.build/chat). -->
 
 #😁 Cambios en el readme pruebas de mas 
+# Nuevo cambio en el dia de hoy 6 de marzo
