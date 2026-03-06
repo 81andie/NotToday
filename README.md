@@ -68,5 +68,6 @@ Feel free to check [our documentation](https://theme.technomancy.dev)
 
 #😁 Cambios en el readme pruebas de mas!
 # Nuevo cambio en el dia de hoy 6 de marzo!
+#generando conflictos muy feos!
 !!!!
 ????
