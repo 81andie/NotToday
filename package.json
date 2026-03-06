@@ -8,7 +8,8 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "format": "remark . --output --ext md,mdx"
+    "format": "remark . --output --ext md,mdx",
+    "pepito": "pepon"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.6",
